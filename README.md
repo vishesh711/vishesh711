@@ -93,7 +93,8 @@ class Vishesh711():
   def __init__(self):
     self.name = "Vishesh Kumar";
     self.username = "Vishesh711";
-    self.location = "Chennai, India";
+    self.location = "New York, United States";
+    self.email = "vishesh.kumar.1@stonybrook.edu"
   
   def __str__(self):
     return self.name
