@@ -113,7 +113,3 @@ if __name__ == '__main__':
 </p>
 
 
-  <b>⚡ Recent GitHub Activity</b>
-  <br/>
-   <a href=""><img alt="Vishesh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Vishesh711&custom_title=Vishesh%20's%20Contribution%20Graph&theme=xcode" /></a>
-  <br/>
