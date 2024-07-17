@@ -109,7 +109,6 @@ if __name__ == '__main__':
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishesh711&show_icons=true&locale=en&layout=compact" alt="vishesh711" /></p>
 
-<p>&nbsp;<img align="center" width=50% src="https://github-readme-stats.vercel.app/api?username=vishesh711&show_icons=true&locale=en&count_private=true%22%20alt=%22vishesh711" /></p>
 
   <b>📈 Stats</b>
 <p align="center">
