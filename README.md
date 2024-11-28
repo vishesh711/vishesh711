@@ -79,18 +79,6 @@ Welcome to my GitHub! I'm a **Data Science Master's student** at **Stony Brook U
 
 ---
 
-## 🎭 Memes for Developers
-
-Because coding without laughter is just debugging! 😄
-
-### Meme 1:
-<img src="https://i.imgur.com/9R7c9Fj.png" alt="Meme 1" width="400">
-
-### Meme 2:
-<img src="https://i.imgur.com/R9g2GJk.jpg" alt="Meme 2" width="400">
-
----
-
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishesh-kumar-9309331a9/)
