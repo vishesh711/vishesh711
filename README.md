@@ -70,8 +70,7 @@ I am a **Data Science Master's student** at Stony Brook University with a passio
 
 ---
 
-## 🎨 Random Meme for You
+🎭 Memes for Developers
+Because coding without laughter is just debugging! 😄
 
-<img src="https://random-memer.herokuapp.com/" width="512px" />
-
----
+<img src="https://i.imgflip.com/5w1b5x.jpg" alt="Meme 1" width="400"> <img src="https://i.imgflip.com/5w1b88.jpg" alt="Meme 2" width="400">
