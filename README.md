@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm a **Data Science Master's student** at **Stony Brook U
 
 ## 🚀 About Me
 
-- 🌱 **Currently Learning**: Transformer models, distributed computing, and advanced deep learning architectures.
+- 🌱 **Currently Learning**: LLM models, RAG, LLM Agents, Transformer models, distributed computing, and advanced deep learning architectures.
 - 🔭 **Current Focus**: Working on cutting-edge projects like **long-context transformers**, **RAG models**, and **scalable cloud solutions**.
 - 👯 **Looking to Collaborate**: On open-source projects related to **AI**, **machine learning**, and **data engineering**.
 - 💬 **Ask Me About**: Natural Language Processing (NLP), cloud-based computation, and end-to-end ML workflows.
