@@ -2,7 +2,7 @@
 
 # Hi there, I'm Vishesh Kumar! 👋
 
-Welcome to my GitHub! I'm a **Data Science Master's student** at **Stony Brook University**, passionate about **machine learning**, **big data**, and **AI-driven solutions**. I enjoy exploring advanced technologies and applying them to solve real-world problems. My interests lie in **building scalable systems**, **experimenting with transformers**, and **data-driven innovation**.
+Welcome to my GitHub! I'm a **Data Science Master's student** at **Stony Brook University**, passionate about **Machine Learning**, **Big Data**, and **AI-driven Solutions**. I enjoy exploring advanced technologies and applying them to solve real-world problems. My interests lie in **Building Scalable Systems**, **Experimenting with Transformers**, and **Data-Driven Innovation**.
 
 ---
 
