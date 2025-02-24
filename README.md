@@ -73,8 +73,8 @@ Welcome to my GitHub! I'm a **Data Science Master's student** at **Stony Brook U
 ## 📈 GitHub Stats
 
 <p align="center">
-[GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishesh711&show_icons=true&theme=tokyonight)
-[GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vishesh711&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishesh711&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vishesh711&theme=tokyonight)
 </p>
 
 ---
