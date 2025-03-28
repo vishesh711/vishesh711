@@ -1,10 +1,13 @@
----
+# 👨‍💻 Vishesh Kumar  
+### Data Scientist • AI Engineer • Systems Architect
 
-# Hi there, I'm Vishesh Kumar! 👋
+<div align="center">
+  <!-- Customize the color gradient, height, and text to your liking -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=180&section=header&text=Hello%20World!&fontSize=40&fontAlignY=35&desc=I%20am%20Vishesh%20Kumar&descAlignY=60" alt="Vishesh Kumar Header" />
+</div>
 
-Welcome to my GitHub! I'm a **Data Science Master's student** at **Stony Brook University**, passionate about **Machine Learning**, **Big Data**, and **AI-driven Solutions**. I enjoy exploring advanced technologies and applying them to solve real-world problems. My interests lie in **Building Scalable Systems**, **Experimenting with Transformers**, and **Data-Driven Innovation**.
+**Hey there!** I’m a **Data Science Master's student** at **Stony Brook University**, where I blend advanced **ML/AI** research with **real-world** engineering. From **LLM Agents** and **Transformer models** to **distributed systems**, I’m on a mission to transform data into next-level solutions.
 
----
 
 ## 🚀 About Me
 
@@ -20,7 +23,6 @@ Welcome to my GitHub! I'm a **Data Science Master's student** at **Stony Brook U
 
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
@@ -38,35 +40,22 @@ Welcome to my GitHub! I'm a **Data Science Master's student** at **Stony Brook U
 
 ---
 
-## 🌟 Featured Projects
+## 🚀 Projects
 
-### [🔹 Customer Segmentation using K-Means Clustering](https://github.com/vishesh711/Customer-Segmentation-using-K-Means-Clustering)
-- **Description**: A clustering algorithm applied to segment customers for targeted marketing.
-- **Tech Stack**: Python, scikit-learn, Matplotlib.
+- **[Multi-AI Agent Reasoning Model](https://github.com/vishesh711/Multi-Agent-Reasoning-Model)**
+  - *Collaborative AI agents leveraging GPT-based reasoning, RL policies, and parallel workflows.*
 
-### [🔹 Long-Context Transformers in RAG](https://github.com/vishesh711/Development-of-a-Long-Context-Transformer-within-RAG-for-Enhanced-Document-Understanding)
-- **Description**: Enhanced document understanding by integrating long-context transformers with RAG models.
-- **Tech Stack**: HuggingFace Transformers, PyTorch, Google Colab.
+- **[Refined RAG: Precision Retrieval](https://github.com/vishesh711/RefinedRAG_BDS)**
+  - *Turning PDFs into semantic chunks with Qdrant and FlashRank for lightning-fast retrieval.*
 
-### [🔹 QRRestoDB: Digital Ordering System for Restaurants](https://github.com/vishesh711/QRRestoDB-Digital-Ordering-and-Payment-System-for-Restaurants)
-- **Description**: Simplified ordering and payment system for restaurants using QR-based technology.
-- **Tech Stack**: JavaScript, Firebase, Node.js.
+- **[Digital Asset Management (DAM)](https://github.com/vishesh711/Digital-Asset-Management-DAM-for-Media-Companies)**
+  - *Full-stack platform for media asset organization with role-based authentication and dynamic dashboards.*
 
-### [🔹 MapReduce Customer Spending Analysis](https://github.com/vishesh711/MapReduce-Customer-Spending)
-- **Description**: Implemented MapReduce to compute customer spending totals from a large dataset using distributed computing.
-- **Tech Stack**: Python, Hadoop, AWS EMR.
+- **[CloudPipeline](https://github.com/vishesh711/Cloud-Pipeline)**
+  - *Serverless document processing on AWS—event-driven, scalable, and seamless.*
 
-### [🔹 PCA on USPS Dataset](https://github.com/vishesh711/PCA-USPS-Dataset)
-- **Description**: Applied Principal Component Analysis (PCA) for dimensionality reduction on the USPS handwritten digit dataset and reconstructed images.
-- **Tech Stack**: Python, NumPy, Matplotlib.
-
-### [🔹 Neural Networks for POS Tagging](https://github.com/vishesh711/Neural-Network-POS-Tagging)
-- **Description**: Built a feed-forward neural network to predict part-of-speech tags for English tweets using skip-gram word embeddings.
-- **Tech Stack**: Python, PyTorch, Word2Vec.
-
-### [🔹 Logistic Regression on MNIST Subset](https://github.com/vishesh711/Logistic-Regression-MNIST)
-- **Description**: Implemented binary logistic regression using a partial MNIST dataset for digit classification, visualizing decision boundaries and training curves.
-- **Tech Stack**: Python, NumPy, Matplotlib.
+- **[Ensemble Modeling Framework (R Package)](https://github.com/vishesh711/Ensemble-Modeling-Framework-R-Package-for-Predictive-Analytics-)**
+  - *Modular R package integrating ensemble methods (RF, Bagging, Lasso, etc.) for predictive analytics.*
 
 ---
 
@@ -76,10 +65,6 @@ Welcome to my GitHub! I'm a **Data Science Master's student** at **Stony Brook U
   <img src="https://github-readme-streak-stats.herokuapp.com?user=vishesh711&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishesh711&layout=compact&theme=tokyonight&hide_border=true" width="58%" alt="Top Languages">
-</p>
-
 ---
 
 ## 🌐 Connect with Me
@@ -87,5 +72,7 @@ Welcome to my GitHub! I'm a **Data Science Master's student** at **Stony Brook U
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishesh-kumar-9309331a9/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishesh.kumar.1@stonybrook.edu)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishesh711)
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a82da8,100:EEFF00&height=120&section=footer" alt="footer" />
+</div>
 ---
