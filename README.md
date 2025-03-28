@@ -72,6 +72,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishesh-kumar-9309331a9/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishesh.kumar.1@stonybrook.edu)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishesh711)
+[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://vishesh711.github.io)
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a82da8,100:EEFF00&height=120&section=footer" alt="footer" />
 </div>
