@@ -1,5 +1,5 @@
 # 👨‍💻 Vishesh Kumar  
-### Data Scientist • AI Engineer • Software Developer Engineer 
+### Data Scientist • AI Engineer • Software Development Engineer 
 
 <div align="center">
   <!-- Customize the color gradient, height, and text to your liking -->
