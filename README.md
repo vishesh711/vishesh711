@@ -2,8 +2,9 @@
 ### Data Scientist • AI Engineer • Software Development Engineer 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:654ea3,100:eaafc8&height=180&section=header&text=Hi%20There!%20Vishesh%20Here&fontSize=40&fontAlignY=35&desc=Data%20Scientist%20%7C%20AI%20Engineer%20%7C%20ML%20Explorer&descAlignY=60" alt="Vishesh Kumar Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,50:FFC371,100:9BE15D&height=180&section=header&text=Hey%20There!%20I'm%20Vishesh%20🎉&fontSize=40&fontAlignY=35&desc=AI%20Enthusiast%20%7C%20Coding%20Wizard%20%7C%20Tech%20Dreamer&descAlignY=60&animation=twinkling" alt="Vishesh Kumar Header" />
 </div>
+
 
 
 
