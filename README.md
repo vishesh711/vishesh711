@@ -2,8 +2,9 @@
 ### Data Scientist • AI Engineer • Software Development Engineer 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:000080&height=180&section=header&text=Welcome%20to%20Vishesh's%20Space%20🌌&fontSize=40&fontAlignY=35&desc=Exploring%20AI%20Horizons%20%7C%20Creating%20Impactful%20Tech&descAlignY=60&animation=fadeIn" alt="Vishesh Kumar Header" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:56ab2f,100:a8e063&height=180&section=header&text=Hello!%20Vishesh%20Kumar%20Here&fontSize=38&fontAlignY=35&desc=ML%20Engineer%20%7C%20Data%20Science%20Expert%20%7C%20AI%20Enthusiast&descAlignY=60" alt="Vishesh Kumar Header" />
 </div>
+
 
 
 **Hey there!** I’m a **Data Science Master's student** at **Stony Brook University**, where I blend advanced **ML/AI** research with **real-world** engineering. From **LLM Agents** and **Transformer models** to **distributed systems**, I’m on a mission to transform data into next-level solutions.
