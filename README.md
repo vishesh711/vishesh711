@@ -2,7 +2,7 @@
 ### Data Scientist • AI Engineer • Software Development Engineer 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:56ab2f,100:a8e063&height=180&section=header&text=Hello!%20Vishesh%20Kumar%20Here&fontSize=38&fontAlignY=35&desc=ML%20Engineer%20%7C%20Data%20Science%20Expert%20%7C%20AI%20Enthusiast&descAlignY=60&animation=fadeIn" alt="Vishesh Kumar Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00CFFF,100:00FFA2&height=180&section=header&text=Welcome%20to%20Vishesh's%20Portfolio!&fontSize=40&fontAlignY=35&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20ML%20Enthusiast&descAlignY=60&animation=fadeIn" alt="Vishesh Kumar Header" />
 </div>
 
 **Hey there!** 👋 I’m a **Data Science Master's student** at **Stony Brook University**, blending advanced **ML/AI** research with **real-world engineering**.  
@@ -23,21 +23,21 @@ From **LLM Agents** and **Transformer models** to **distributed systems**, I’m
 ## 🛠️ Skills and Technologies
 
 ### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-56ab2f?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-56ab2f?style=for-the-badge&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-56ab2f?style=for-the-badge&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-00CFFF?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-00CFFF?style=for-the-badge&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-00CFFF?style=for-the-badge&logo=r&logoColor=white)
 
 ### 📊 Data Science & Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-56ab2f?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-56ab2f?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-56ab2f?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-56ab2f?style=for-the-badge&logo=numpy&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-00CFFF?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-00CFFF?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-00CFFF?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-00CFFF?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-56ab2f?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-56ab2f?style=for-the-badge&logo=docker&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-56ab2f?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-56ab2f?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-00CFFF?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-00CFFF?style=for-the-badge&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-00CFFF?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-00CFFF?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
@@ -63,19 +63,19 @@ From **LLM Agents** and **Transformer models** to **distributed systems**, I’m
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishesh711&show_icons=true&theme=gruvbox&count_private=true&hide_border=true" width="48%" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vishesh711&theme=gruvbox&hide_border=true" width="48%" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=vishesh711&show_icons=true&theme=react&count_private=true&hide_border=true" width="48%" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vishesh711&theme=react&hide_border=true" width="48%" alt="GitHub Streak">
 </p>
 
 ---
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-56ab2f?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishesh-kumar-9309331a9/)
-[![Email](https://img.shields.io/badge/Email-56ab2f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishesh.kumar.1@stonybrook.edu)
-[![GitHub](https://img.shields.io/badge/GitHub-56ab2f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishesh711)
-[![Portfolio](https://img.shields.io/badge/Portfolio-56ab2f?style=for-the-badge&logo=dev.to&logoColor=white)](https://vishesh711.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00CFFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishesh-kumar-9309331a9/)
+[![Email](https://img.shields.io/badge/Email-00CFFF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishesh.kumar.1@stonybrook.edu)
+[![GitHub](https://img.shields.io/badge/GitHub-00CFFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishesh711)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00CFFF?style=for-the-badge&logo=dev.to&logoColor=white)](https://vishesh711.github.io)
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:56ab2f,100:a8e063&height=120&section=footer&animation=fadeIn" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00CFFF,100:00FFA2&height=120&section=footer&animation=fadeIn" alt="footer" />
 </div>
