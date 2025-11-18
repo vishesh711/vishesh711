@@ -23,5 +23,5 @@ I enjoy taking ideas from concept → architecture → production, focusing on r
 ## 🌐 Connect
 **Portfolio:** https://visheshk.in  
 **LinkedIn:** https://linkedin.com/in/vishesh-kumar-9309331a9  
-**Email:** vishesh.kumar.1@stonybrook.edu  
+**Email:** dev.vishesh71@gmail.com 
 **GitHub:** https://github.com/vishesh711
