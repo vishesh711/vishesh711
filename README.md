@@ -1,26 +1,109 @@
-# Vishesh Kumar  
-### AI Engineer • Data Scientist • Software Developer  
+<div align="center">
 
-Hi, I'm Vishesh — an engineer who loves building clean, scalable systems around:
+<img src="./assets/hero.svg" width="100%" alt="Vishesh Kumar — I build what does not exist yet, with a futuristic orbit visualization" />
 
-- LLMs & AI Agents  
-- Retrieval & search (RAG)  
-- Distributed systems  
-- Cloud-native backend development  
+<br/>
 
-I enjoy taking ideas from concept → architecture → production, focusing on reliability, performance, and clear engineering principles.
+<a href="https://visheshk.in"><img src="https://img.shields.io/badge/PORTFOLIO-visheshk.in-52EBC9?style=for-the-badge&labelColor=0B1423" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/vishesh71/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-78B8FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1423" alt="LinkedIn" /></a>
+<a href="mailto:dev.vishesh71@gmail.com"><img src="https://img.shields.io/badge/EMAIL-SAY%20HELLO-BC9AFF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1423" alt="Email" /></a>
+<img src="https://komarev.com/ghpvc/?username=vishesh711&label=PROFILE+VIEWS&color=52ebc9&style=for-the-badge" alt="Profile view counter" />
 
----
+<br/><br/>
 
-## ⚡ What I Work With
-**Languages:** Python, TypeScript, Go  
-**AI/ML:** Transformers, RAG, PyTorch, Vector Databases  
-**Backend:** FastAPI, Node.js, REST, WebSockets  
-**Infra:** AWS, Kubernetes, Docker, Kafka, Redis, PostgreSQL  
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3300&pause=900&color=70E9CE&center=true&vCenter=true&width=800&height=42&lines=Building+AI+agents+that+can+be+trusted.;Teaching+distributed+systems+to+behave.;Making+infrastructure+fast%2C+safe%2C+observable.;Turning+ridiculous+ideas+into+real+software." alt="Animated typing introduction" />
+
+</div>
 
 ---
 
-## 🌐 Connect
-**Portfolio:** https://visheshk.in  
-**LinkedIn:** https://linkedin.com/in/vishesh-kumar-9309331a9  
-**Email:** dev.vishesh71@gmail.com 
+### `> whoami`
+
+I'm **Vishesh**, a software & AI engineer who likes the weird intersection of **intelligence, infrastructure, and security**. I don't just want models that *answer* — I want systems that **reason, act, recover, and hold up under pressure**.
+
+- 🧠 **Mindset:** prototype boldly, measure honestly, engineer for failure.
+- 🛠️ **Current playground:** agent evaluations, MCP simulations, inference gateways, durable workflows.
+- 🎓 **Background:** MS in Data Science · Stony Brook University.
+- ⚽ **Outside the terminal:** Real Madrid, football, games, and ideas that begin with *“what if…”*
+
+### `> ls ./selected-systems`
+
+<img src="./assets/systems.svg" width="100%" alt="Six selected projects, including ShadowLab, Inference Gateway, FlowForge, KGuard, SimuNet and DevAuth" />
+
+<details>
+<summary><b>🔍 Explore the engineering behind these systems</b></summary>
+
+| System | What makes it interesting |
+|:--|:--|
+| **ShadowLab** | Stateful MCP-tool simulation, precise fault injection, baseline-vs-candidate evaluations, CI regression gates. |
+| **Inference Gateway** | Go admission control, weighted concurrency, multi-backend routing, streaming SSE, 23 Prometheus metrics. |
+| **FlowForge** | Distributed TypeScript services, Kafka/Redis/Postgres, K8s scaling and canary rollout, OpenTelemetry. |
+| **KGuard** | Linux Netfilter packet filtering with security telemetry and monitoring. |
+| **SimuNet** | Agent-based simulations at 10k+ scale, retrieval and language models. |
+| **DevAuth** | Identity platform with FastAPI, Next.js, RS256 JWT and TypeScript/Python SDKs. |
+
+Some work may be private or under a different repository name. Browse my [public repositories](https://github.com/vishesh711?tab=repositories) for published code.
+</details>
+
+### `> cat stack.yaml`
+
+<div align="center">
+
+**LANGUAGES & RUNTIME**
+
+<img src="https://skillicons.dev/icons?i=python,go,ts,js,java,cpp,linux,bash&theme=dark" alt="Python, Go, TypeScript, JavaScript, Java, C++, Linux, Bash" />
+
+**AI, BACKEND & DATA**
+
+<img src="https://skillicons.dev/icons?i=pytorch,fastapi,nodejs,react,nextjs,postgres,redis,kafka&theme=dark" alt="PyTorch, FastAPI, Node.js, React, Next.js, PostgreSQL, Redis, Kafka" />
+
+**INFRASTRUCTURE & SHIPPING**
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,git,nginx,prometheus,grafana&theme=dark" alt="AWS, Docker, Kubernetes, GitHub Actions, Git, Nginx, Prometheus, Grafana" />
+
+<sub>Also building with LangGraph · MCP · FAISS · Celery · Supabase · OpenTelemetry</sub>
+
+</div>
+
+### `> ./telemetry --live`
+
+<div align="center">
+
+<!-- LIVE DATA: these are generated from GitHub's public activity, not invented metrics. -->
+<img src="https://ghstats.dev/api/card?username=vishesh711&theme=tokyonight" width="54%" alt="Live GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishesh711&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="40%" alt="Languages used across public repositories" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com/?user=vishesh711&theme=tokyonight&hide_border=true&background=0D1117&ring=52EBC9&fire=BC9AFF&currStreakLabel=52EBC9" width="65%" alt="Contribution streak" />
+
+<br />
+
+**THE CONTRIBUTION SIMULATION**
+
+<!-- This file is generated by the included GitHub Action after you enable Actions. -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishesh711/vishesh711/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vishesh711/vishesh711/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake traveling through the GitHub contribution graph; appears after the GitHub Action runs" src="https://raw.githubusercontent.com/vishesh711/vishesh711/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+<sub>Stats update from public GitHub data. The snake appears once the included workflow runs. Language percentages describe repository code, not expertise.</sub>
+
+</div>
+
+### `> ./build --from-imagination`
+
+<img src="./assets/process.svg" width="100%" alt="Imagine, design, build, break, ship" />
+
+<div align="center">
+
+> **The most interesting things haven't been built yet.**
+>
+> I plan to change that — one experiment, one failure mode, one deployed system at a time.
+
+**[↗ EXPLORE MY CODE](https://github.com/vishesh711?tab=repositories)  ·  [↗ VISIT MY PORTFOLIO](https://visheshk.in)  ·  [↗ SAY HELLO](mailto:dev.vishesh71@gmail.com)**
+
+<sub>Designed as a tiny engineering lab · vishesh711</sub>
+
+</div>
